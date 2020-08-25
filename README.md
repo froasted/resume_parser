@@ -1,2 +1,2 @@
-# resume_parser
+# Resume Parser
 Extracts meaningful information from resumes.
